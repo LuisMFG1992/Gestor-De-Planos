@@ -137,7 +137,7 @@ const baseDeDdatos = [
         //  ---------- INICIO NIVEL 3 EQUIPOS ---------- //
   
         Equipos.forEach((element2) => {
-          console.log(element2);
+          // console.log(element2);
           botonSubestaciones += `
               <div class="card card-body bg-none border-0 ms-5 p-0">
                   <div>
